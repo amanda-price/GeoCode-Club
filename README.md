@@ -3,10 +3,10 @@
 
 ## Proposed plan
 * **Module 1: Foundations**
-  *	Intro to data science tools (GitHub, jupyter, command line)
-  *	Intro to Python
-  *	Matlab techniques (image processing, nonlinear regression, pca analysis)
-  *	Making Publication Worthy Figures (data visualization, gmt)
+  *	Intro to data science tools (GitHub, jupyter, command line) - _Sept 28th_
+  *	Intro to Python - _Oct  26th_
+  *	Making Publication Worthy Figures (data visualization, gmt) - _Nov 30th_
+  * Matlab techniques (image processing, nonlinear regression, pca analysis) 
 
 * **Module 2: Statistical Methods in Geocomputing**
   *	Geostatistics and R (ggplot)
