@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is ONLY a test.
+=======
+This is REALLY a test
+>>>>>>> 706b86084817a53d2232afcecf8060bce53bbc7c
