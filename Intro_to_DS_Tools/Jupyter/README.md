@@ -23,7 +23,7 @@ Windows: > where conda
  
 $ conda config --add channels conda-forge
 
-$ conda create --name colorado python=3 numpy scipy pandas jupyter
+$ conda create --name geocode python=3 numpy scipy pandas jupyter
 <br>
 <br>
 #### Activate geocode environment. Note the "(geocode)" prefix in the bash shell prompt from now on.
