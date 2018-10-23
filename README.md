@@ -4,7 +4,7 @@
 ## Proposed plan
 * **Module 1: Foundations**
   *	Intro to data science tools (GitHub, jupyter, command line) - _Sept 28th_
-  *	Intro to Python - _Oct  26th_
+  *	Intro to Python - ~~Oct  26th~~ _Nov 9th_
   *	Making Publication Worthy Figures (data visualization, gmt) - _Nov 30th_
   * Matlab techniques 
 
