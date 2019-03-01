@@ -35,7 +35,7 @@ So now we can define the midpoints as start:interval:end
 	v = 10 : 0.65 : 14.55
 	hist(corg,v);
 	n = hist(corg,v);
-```matlab
+```
 To describe the distribution average and dispersion of the average
 Arithmetic mean and median:
 ```matlab
