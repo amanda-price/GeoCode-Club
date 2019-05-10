@@ -1,6 +1,8 @@
-# Machine Learning Workshop at SSA 2019
+# From the Machine Learning Workshop at SSA 2019
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/qingkaikong/SSA_Machine_Learning_2019/master)
+To interact with Jupyter notebooks, click the Binder button below:
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/amanda-price/GeoCode-Club/master)
 
 
 ## Introduction   

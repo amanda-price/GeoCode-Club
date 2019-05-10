@@ -1,5 +1,8 @@
 # GeoCode Club
 
+To interact with Jupyter notebooks, click the Binder button below:
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/amanda-price/GeoCode-Club/master)
 
 ## 2018-2019 Proposed plan
 * **Module 1: Foundations**
