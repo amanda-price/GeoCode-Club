@@ -1,6 +1,6 @@
 %problem 1
 function variogram
-addpath('C:\Users\Greg\Documents\GEOPHYS 112');
+%addpath('C:\Users\Greg\Documents\GEOPHYS 112');
 R = importdata('regressiondata.mat');
 vrgdata = R.('vrgdata');
 lag = vrgdata(:,1);
